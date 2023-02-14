@@ -1,0 +1,12 @@
+[
+    {
+      "index": 0,
+      "title": "Slenderness Limit",
+      "description": "The ratio of the unsupported length to the least lateral dimension of a column should not exceed a value of 60.\n\nL/D≤ 60\n\nReason:\nThis limit is imposed so that the failure of a column may not occur suddenly under small loads due to instability (Buckling)."
+    },
+    {
+      "index": 1,
+      "title": "Minimum Eccentricities",
+      "description": "All axially loaded columns should be designed considering the minimum eccentricity as given below:\n\nFor Rectangular Columns\nFor Non-Rectangular Columns\n\nwhere L[e] is the effective length of the column in the direction considered.\n\nReason:\n\nThis clause is imposed to account for the eccentricities due to inaccuracy in construction or application of loading etc."
+    }
+  ]

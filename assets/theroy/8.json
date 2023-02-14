@@ -1,0 +1,22 @@
+ [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "description": "<p>Short column is a compression member whose effective length is less than twelve times its least lateral dimension. In more general terms it is a compression member having a ratio of unsupported length to least dimension of the cross section equal to or less than 12. Generally, columns of circular or rectangular cross-sections are used in buildings. This chapter covers the design process of short rectangular columns.</p>"
+    },
+    {
+      "index": 1,
+      "title": "Short column subjected to axial load with Biaxial Bending",
+      "description": "<p>This section applies to columns that have the statically equivalent axial load P, at eccentricity in both the direction (major and minor both simultaneously) more than the minimum eccentricity specified by the code.</p>"
+    },
+    {
+      "index": 2,
+      "title": "Interaction Chart",
+      "description": "<p>Two separate interaction charts are prepared for both major and minor axis of bending, for the purpose of the design of a column under bi-axial bending. The charts are then used for finding out the interaction ratios along both the directions. These interaction ratios are then utilized to find out whether the section is safe on not by using the following formulation.</p> </br><body><script>var s ='$$(M_{ux}/M_{ix})^{&alpha;_n}+(M_{uy}/M_{iy})^{&alpha;_n} &le;1 $$';M.parseMath(s);document.write(s);</script> </body><p>Where<body><script>var s ='$$α_n=[`table 1, for P_u/P_{uz}&lt;0.2;2, forP_u/P_{uz}>0.8;0.667+1.667 P_u/P_{uz}, otherwise$$';M.parseMath(s);document.write(s);</script> </body></br><body><script>var s ='$$P_{uz}=0.45f_{ck}A_g+(0.75f_y-0.45f_{ck})A_{sc}$$';M.parseMath(s);document.write(s);</script> </body>"
+    },
+    {
+      "index": 3,
+      "title": "Design Process",
+      "description": "<p>The design of a column with given axial force and biaxial bending moment should be done as follows:</p><ul><li>Selection of a trial section with assumed longitudinal steel,</li><li>Construction of the interaction diagram of the selected trial column section for both major and minor axis of bending.</li><li>Calculation of the interaction ratio for the column using formula</li><li>If the interaction ratio is less than one the section is safe, else revise assumed section.</li></ul>"
+    }
+  ]

@@ -1,0 +1,37 @@
+ [
+    {
+      "index": 0,
+      "title": "Transverse Reinforcement ",
+      "description": "Transverse reinforcement must be provided in a compression member enclosing all longitudinal reinforcement. Transverse reinforcement in columns is also called as Tie.\n\nTransverse reinforcement is generally provided in columns\n\n* to prevent the premature buckling of individual bars;\n\n* to confine the concrete in the ‘core’, thus improving ductility and strength;\n\n* to hold the longitudinal bars in position during construction; and;\n\n* to provide resistance against shear and torsion, if required."
+    },
+    {
+      "index": 1,
+      "title": "Minimum dia. of bar for transverse reinforcement",
+      "description": "The diameter of the polygonal links or lateral ties shall be not less than one-fourth of the diameter of the largest longitudinal bar, and in no case less than 6 mm.\n\nReason: Primary purpose of lateral ties is to provide adequate lateral support to each longitudinal bar, thereby preventing outward movement of the main bar. The diameter of tie is governed by the requirements of stiffness, and the minimum limit ensures that the tie is stiff enough to prevent the outward movement of the main bar.\n\n"
+    },
+    {
+      "index": 2,
+      "title": "Minimum Pitch",
+      "description": "Minimum pitch s<sub>t</sub> (centre-to-centre spacing along the longitudinal axis of the column) of the ties should not be less than 75mm.\n\nReason: This limit is imposed for proper placement and compaction of concrete. Minimum spacing is required for proper flow of concrete and aggregate; thus should be more than the nominal size of the aggregate so that it could pass through.\n\n"
+    },
+    {
+      "index": 3,
+      "title": "Maximum Pitch",
+      "description": "Maximum pitch s<sub>t</sub> (centre-to-centre spacing along the longitudinal axis of the column) of the ties should not be least of the following:\n<ul>\nLeast lateral dimension of the column\n16 times the dia of the main bar\n300mm</ul>\nReason: The pitch should be small enough to reduce the unsupported length (and hence, slenderness ratio) of each longitudinal bar thereby preventing the outward movement of the bar.This limit is also imposed to keep the shrinkage/flexural cracking of concrete under control. This is because the concrete near to the reinforcing bars is prevented from cracking as the bars takes the tensile stresses, but the concrete present between the bars is not restrained by the reinforcement. If a spacing more than the limit is provided, then that could lead to the development of excessive shrinkage/flexural cracking in this unrestrained zone of concrete.\n\n"
+    },
+    {
+      "index": 4,
+      "title": "Arrangement of Transverse reinforcement",
+      "description": "Transverse reinforcement must be provided in a compression member enclosing all longitudinal reinforcement.\nFor longitudinal bar spacing less than 75mm.\nWhen the center to center spacing of longitudinal bars is less than 75 mm, lateral support need only be provided for the corner and alternate bars for the purpose of providing effective support to all the longitudinal bars.\n\nReason: The straight portion of a closed tie (i.e. the length between the parallel legs of tie) is really effective if it is small (i.e. less than 150mm). In such case, the tie is able to hold more than one bar without bulging.\n\nFor longitudinal bar spacing more than 75mm.\nWhen the center to center spacing of longitudinal bars is more than 75 mm, lateral support should be provided for all the longitudinal bars.\n\nReason: The straight portion of a closed tie (i.e.the length between the parallel legs of tie) is not really effective if it is large, as it tends to bulge outward when the concrete core is subjected to compression. Thus, to prevent the bulging ties are provided for each bar.\n\n"
+    },
+    {
+      "index": 5,
+      "title": "Open Tie v/s Closed Tie",
+      "description": "Ties which form a closed loop are called closed ties and which don&rsquo;t are called open ties. If the spacing of corner bars enclosed within a closed tie is less than 48 times the diameter of the tie, then the bars in between can be tied with open ties.\n\nReason: Open ties are much easier to make and place at the site. Multi-legged ties, on the other hand, are difficult to make and are very cumbersome to work with on site. Thus it is beneficial to use open ties in place of closed if possible.\n\n"
+    },
+    {
+      "index": 6,
+      "title": "Anchoring",
+      "description": "The ends of every tie (whether closed or open) should be properly anchored.\n\nReason: If the ties are not anchored properly, it would tend to open when the concrete core is subjected to compression. This would lead to loss of lateral restrain to the longitudinal bars.\n\n"
+    }
+  ]

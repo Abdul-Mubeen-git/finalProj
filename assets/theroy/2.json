@@ -1,0 +1,67 @@
+ [
+    {
+      "index": 0,
+      "title": "Column",
+      "description": "A reinforced concrete column is a vertical structural member designed to transfer the load of the structure to its foundations. The columns are made of concrete and are reinforced by means of main longitudinal bars to resist compression and/or bending; and transverse reinforcement (ties) to resist bursting forces. A column is a special case of a compression member that is vertical."
+    },
+    {
+      "index": 1,
+      "title": "Longitudinal Axis",
+      "description": "It is the axis passing through the centre of gravity of section along the length wise direction of the body. Generally it is represented by local X-axis."
+    },
+    {
+      "index": 2,
+      "title": "Transverse Axis (Lateral Axis)",
+      "description": "It is the axis passing through the center of gravity of section perpendicular to the longitudinal axis. In a member with rectangular cross-section, axis parallel to the width (local Y-axis) is termed as lateral axis, and axis parallel to the depth is termed as vertical axis (local Z-axis). Sometimes the vertical axis is also referred to as a lateral axis.\nTransverse axis are further characterized  into major and minor axis.\nMajor Axis\nThe axis about which the moment of inertia is larger is termed as major axis.\nMinor Axis\nThe axis about which the moment of inertia is smaller is termed as minor axis."
+    },
+    {
+      "index": 3,
+      "title": "Loading (Applied Force)",
+      "description": "In structural engineering the terms force and loads is used interchangeably. Load is a term frequently used in engineering to mean the force exerted on a surface or body. A column by definition is a structural member primarily subjected to compressive loads. But that is not the only loading condition that it is subjected to. In general a column is subjected to Axial Force, Shear Force, Bending Moment, Torsional Moment"
+    },
+    {
+      "index": 4,
+      "title": "Axial Force (P)",
+      "description": "If the line of action of force is parallel and concentric with the longitudinal centroidal axis of the member then it is termed as axial force. Axial force could produce either tensile or compressive stresses in the structural member. It is usually denoted by a symbol P."
+    },
+    {
+      "index": 5,
+      "title": "Shear Force (S[Y] / S[Z] )",
+      "description": "If the line of action of force is parallel to the transverse axis of the member then it is termed as shear force. Shear force produces shear stresses in the structural member. If the direction of application of shear is along local Y-direction then the force is denoted by S[Y] and if it is along local Z-direction then the force is denoted by S[Z]."
+    },
+    {
+      "index": 6,
+      "title": "Bending Moment (M[Y]/M[Z])",
+      "description": "A force applied in the lateral axis would try to slice off the member (Shear force) or would try to bend the member. The turning effect of a force is known as the moment. Moment of force is the product of force and the distance of the force from the point of interest.\nIf this moment of force tries to bend the member then we call it bending moment. Bending Moment produces tensile and compressive bending stresses in the structural member.\nIf the direction of application of force is parallel and concentric with the local Y-axis then the force produces bending moment about local Z-direction and is denoted by MZ and if it is parallel and concentric with the local Z-direction then the force produces bending moment about local Y-direction and is denoted by MY.\nNote that if the line of application of force is not concentric with the local axis then in addition to bending moments the force would also produce torsional moments."
+    },
+    {
+      "index": 7,
+      "title": "Torsional Moment about X-axis (M[X])",
+      "description": "If the direction of application of force is parallel but not concentric with the local Y-axis or local Z-axis then the moment produced by this force tries to twist the member about local X-direction and is denoted by MX. The moment is termed twisting moment or Torsional moment. Torsional moment produces shear stresses in the structural member. "
+    },
+    {
+      "index": 8,
+      "title": "Statically Equivalent Loads",
+      "description": "Two force systems are statically equivalent when their resultants are equal. Physically, this means that the force systems tend to impart the same motion/deformation when applied to a structural member.\nThe combination of axial compression (P) with bending moment (M) at any column section is statically equivalent to a system consisting of the load P applied with an eccentricity e = M/P with respect to the longitudinal centroidal axis of the column section.\nIn a more general loading situation, bending moments (M[Y] and M[Z]) are applied simultaneously on the axially loaded column in two perpendicular directions — about the major axis (YY) and minor axis (ZZ) of the column section. This results in biaxial eccentricities e[Y]= M[Z] /P and e[Z] = M[Y] /P."
+    },
+    {
+      "index": 9,
+      "title": "Difference between Beam and Column",
+      "description": "In structural engineering we give names to different structural members based on their behavior under applied load.\nFor example:\nSay you have a rod of length 3 m made out of steel and a load P to support.\n* You decide to hang the rod from ceiling and hook the load to the other end of the rod. The load in this case is being transferred primarily by tension and thus we call it a Tie.\n* In the second case the rod is kept vertically on the floor and the load is placed on top of it. Now the load is being transferred by compression and thus we call it a Column.\n* In the third case we keep the rod on two supports and then place load on top of it. This time the primary mode of load transfer is by bending and thus we call it a Beam\n* In the fourth case we keep the rod vertical and apply load horizontally to it. This time the primary mode of load transfer is also by bending and thus we call it a Beam.\n* In the fifth case we keep the rod vertical and apply the load at a distance from its centroidal axis. This time the load in addition to compression also produces bending moment in the member and thus we call it a Beam-Column (Bending and Compression).\nIt is important to notice here that in all the above five cases nothing physically got changed with the rod in term of its material properties, cross-section or length. The only thing that changed was the way in which the load was being transferred by it."
+    },
+    {
+      "index": 10,
+      "title": "Types of Compression Members",
+      "description": "Pedestal: It is a vertical compression member whose effective length is less than three times its least lateral dimension.\nColumn: It is a vertical compression member whose effective length is more than three times its least lateral dimension. "
+    },
+    {
+      "index": 11,
+      "title": "Classification of Columns based on Slenderness Ratio",
+      "description": "Short Column: It is a compression member whose effective length is less than twelve times its least lateral dimension. In more general terms it is a compression member having a ratio of unsupported length to least dimension of the cross section equal to or less than 12.\nSlender (Long) Column: It is a compression member whose effective length is greater than twelve times its least lateral dimension. In more general terms it is a compression member having a ratio of unsupported length to least dimension of the cross section more than 12. "
+    },
+    {
+      "index": 12,
+      "title": "Classification of Columns based on type of loading",
+      "description": "Axially loaded columns: The line of action of statically equivalent load is concentric to the centroidal axis of the column.\nAxial loading with uniaxial bending on column: The line of action of statically equivalent load is eccentric in one direction to the centroidal axis of the column.\nAxial loading with biaxial bending on column: The line of action of statically equivalent load is eccentric in both the directions to the centroidal axis of the column."
+    }
+  ]

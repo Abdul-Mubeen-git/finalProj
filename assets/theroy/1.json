@@ -1,0 +1,22 @@
+ [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "description":"Reinforced Cement Concrete (RCC) is a composite material in which concrete's relatively low tensile strength and ductility are counteracted by the inclusion of reinforcement having higher tensile strength or ductility. The reinforcement is usually, though not necessarily, steel reinforcing bars (rebar) and is usually embedded passively in the concrete before the concrete sets."
+    },
+    {
+      "index": 1,
+      "title": "",
+      "description":"A reinforced concrete column is a vertical structural member designed to transfer the load of the structure to its foundations. The columns are made of concrete and are reinforced by means of main longitudinal bars to resist compression and/or bending, and transverse reinforcement (ties) to resist bursting forces. A column is a special case of a compression member that is vertical."
+    },
+    {
+      "index": 2,
+      "title": "",
+      "description":"RCC Column design is the process of determining the required column dimension and reinforcement with appropriate grade of concrete and steel which could withstand the envisaged load acting on the column. Unlike the design of a beam where based on the load given, it is possible to determine the sectional dimensions and reinforcement requirement directly from design equations, the design process of the column is iterative. It is required by the designer to first define the section and then calculate the capacity of the section and compare it to the applied loads."
+    },
+    {
+      "index": 3,
+      "title": "",
+      "description":"In this app, you would be able to understand and explore the underlying principles, concepts, and equations utilized in the process of design of RCC column. The app covers many important topics in the field of RCC design of columns that is fundamental for civil engineering students, Structural engineering students and working professionals in the field of Structural Engineering."
+    }
+  ]

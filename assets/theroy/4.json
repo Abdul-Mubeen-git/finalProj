@@ -1,0 +1,52 @@
+ [
+    {
+      "index": 0,
+      "title": "Longitudinal Reinforcement ",
+      "description": "Longitudinal reinforcement is provided in column to carry the applied axial load and bending moment along with concrete."
+    },
+    {
+      "index": 1,
+      "title": "Minimum Longitudinal Reinforcement ",
+      "description": "It should be at least 0.8 percent of the gross cross-sectional area required.\n\nReason:\n\nConcrete is relatively weak in tension. Minimum reinforcement is provided to ensure that the column has nominal flexural resistance under unforeseen eccentricities in loading, which could lead to the development of tensile stresses in the member. Also, due to creep and shrinkage, additional stresses are imposed on the reinforcement, which could lead to yielding of the bar. To prevent it minimum reinforcement is provided which helps in distribution of the creep and shrinkage stress to more number of bars.\n\nNote:\n\nThe gross cross-sectional area required is the area calculated to resist direct stress. If the area provided is more than that required because of architectural considerations, the minimum reinforcement should be calculated based on the area required."
+    },
+    {
+      "index": 2,
+      "title": "Maximum Longitudinal Reinforcement",
+      "description": "The maximum amount of steel should be 4 per cent of the gross cross-sectional area of the column.\n\nReason: The maximum limit is imposed so that concrete could be easily placed and compacted. The limit on maximum reinforcement prevents the overcrowding of the interior of the column with reinforcement that would, in turn, restrict the flow of the concrete/aggregate. \n\n"
+    },
+    {
+      "index": 3,
+      "title": "Minimum diameter of bar",
+      "description": "Longitudinal bars in columns should not be less than 12mm in diameter.\n\nReason: Minimum limit on the diameter of the longitudinal bar is imposed to prevent buckling of the bar under compressive loads. The minimum diameter is based on the requirements of stiffness and, therefore, is independent of the strength or type of steel.\n\n"
+    },
+    {
+      "index": 4,
+      "title": "Minimum number of bars",
+      "description": "At least 4 bars (one at each end) should be provided in a column with the rectangular column, and at-least 6 bars (equally spaced near the circumference) in a circular column.\n\n<img src=\"Images/chapter_4/figure_4_1.png\" class=\"center\"/>Reason: Reinforcement is provided at locations where we expect tensile stresses to be developed. In a column reversal of bending moment may occur, and, to prevent the development of tensile crack&rsquo;s the bars are distributed equally along the periphery of the column. This kind of arrangement also leads to the proper distribution of the stiffness inside the column to take both axial forces and bending moment.\n\n"
+    },
+    {
+      "index": 5,
+      "title": "Minimum spacing between bars",
+      "description": "The minimum clear spacing between the bars shall be more than the nominal maximum size of aggregate+5mm.\n\nReason: This limit is imposed for proper placement and compaction of concrete. Minimum spacing is required for the proper flow of concrete and aggregate; thus should be more than the nominal size of the aggregate so that it could pass through.\n\n"
+    },
+    {
+      "index": 6,
+      "title": "",
+      "description": ""
+    },
+    {
+      "index": 7,
+      "title": "Maximum spacing between bars",
+      "description": "Longitudinal bars should not be spaced more than 300mm center to center along the periphery of the column.\n\nReason: This limit is imposed to keep the shrinkage/flexural cracking of concrete under control. This is because the concrete near to the reinforcing bars is prevented from cracking as the bars takes the tensile stresses, but the concrete present between the bars is not restrained by the reinforcement. If a spacing more than the limit is provided, then that could lead to the development of excessive shrinkage/flexural cracking in this unrestrained zone of concrete.\n\n"
+    },
+    {
+      "index": 8,
+      "title": "Minimum Cover",
+      "description": "Minimum clear cover of 40mm or bar diameter (whichever is greater), to the column ties, is recommended by the code. A reduced cover of 25mm is permitted in small-sized columns (D&le; 200mm and whose reinforcing bars do not exceed 12mm).\n\nReason: The concrete cover must have a minimum thickness for three main reasons: To protect the steel reinforcement bars from environmental effects to prevent their corrosion; to provide thermal insulation, which protects the reinforcement bars from fire, and; to give reinforcing bars sufficient embedding to enable them to be stressed without slipping.\n\n"
+    },
+    {
+      "index": 9,
+      "title": "Maximum Cover",
+      "description": "Maximum clear cover of 75mm to the column ties is recommended.\n\nReason: Thick cover leads to increased crack widths in flexural reinforced concrete members. Large crack-widths (greater than 0.3 mm) permit ingress of moisture and chemical attack to the concrete, resulting in possible corrosion of reinforcement and deterioration of concrete. Therefore, thick covers defeat the very purpose for which it is provided.\n\n"
+    }
+  ]
